@@ -1,5 +1,4 @@
-# Quantam-Enhanced
-Here's your GitHub repository description (the short one-liner):
+Quantam-Enhanced
 
 > Emotion-aware autonomous vehicle framework that detects pedestrian facial emotions in real-time using CNN (MobileNetV2) and adapts vehicle speed and trajectory via LSTM-based prediction and quantum-inspired decision logic — trained on FER-2013 and PIE datasets.
 
